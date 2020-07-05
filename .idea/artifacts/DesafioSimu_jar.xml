@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DesafioSimu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DesafioSimu_jar</output-path>
+    <root id="archive" name="DesafioSimu.jar">
+      <element id="module-output" name="DesafioSimu" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/JFX3DModelImporters_EA_2014-02-09/jimStlMeshImporterJFX.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
